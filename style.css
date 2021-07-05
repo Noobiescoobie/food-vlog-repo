@@ -7,3 +7,5 @@ text{font-family: 'Roboto Slab', serif; margin-left: 50px; }
 .pics-talk img{width: 90%;}
 a{text-decoration: none; color: honeydew;
   background-image: linear-gradient(green, yellowgreen); padding: 20px 50px; border-radius: 10px;}
+.mid{margin-left: 0%;}
+.mid img{ width: 90%;}
