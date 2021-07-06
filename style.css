@@ -8,15 +8,15 @@ text{font-family: 'Roboto Slab', serif; margin-left: 50px; margin-right: 50px;}
 a{text-decoration: none; color: white;
   background-image: linear-gradient(green, yellowgreen); padding: 20px 50px; border-radius: 10px;}
 .mid{margin-left: 0%;}
-.mid img{ width: 100%; position: relative;}
+.mid img{ width: 100%; position: relative; margin-top: 10%;}
 
 .mid-text{width: 50%; margin-top: -40%; margin-left: 40%; text-align: left; position: absolute;}
 .mid-title{ color: white; }
 #contact-button{background-image: linear-gradient(green , yellowgreen); margin-left: 40%; margin-top: -40%;}
 #recipies{ text-align: center; font-weight: 800; margin-left: 60%; }
 .food{ display: flex; height: auto;width: 33%;}
-
-       
+.gallery{ display: flex; width: fit-content ; margin-bottom: 2%;}
+ul{ font-size: 80px; margin-bottom: 10px ; margin-top: 10px;}       
 .food img {width: 40%; height: 90%; border-radius: 5%;}
 .food p{ width: 40%; margin-left:  10%; }
 .foods {display: flex;}
